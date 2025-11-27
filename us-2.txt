@@ -1,0 +1,6 @@
+Explique con sus palabras y de la forma más breve posible, el proceso de desarrollo de un proyecto utilizando SCRUM. 
+El proceso de desarrollo con SCRUM incluye la planificación del sprint, reuniones diarias, revisión del sprint y retrospectivas para mejorar continuamente.
+Mencione los actores, los artefactos y las ceremonias.
+Actores: Product Owner, Scrum Master, Equipo de Desarrollo.
+Artefactos: Product Backlog, Sprint Backlog.
+Ceremonias: Sprint Planning, Daily .
