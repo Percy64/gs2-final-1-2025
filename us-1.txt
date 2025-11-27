@@ -1,0 +1,5 @@
+Si hablamos de tipos de requisitos. Existen dos grandes tipos. ¿Cuáles son? (solo mencionarlos) 
+Requisitos funcionales y requisitos no funcionales.
+Redacte con sus palabras un ejemplo de cada uno.
+Requisito funcional: El sistema debe permitir a los usuarios registrarse con un correo electrónico y una contraseña.
+Requisito no funcional: El sistema debe responder a las solicitudes de los usuarios en menos de 2 segundos.
