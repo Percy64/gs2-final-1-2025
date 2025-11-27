@@ -1,0 +1,2 @@
+Siguiendo el modelo tradicional para escribir historias de usuarios, redacte un ejemplo:
+como usuario quiero poder leer el qr de una mascota para obtener información.
